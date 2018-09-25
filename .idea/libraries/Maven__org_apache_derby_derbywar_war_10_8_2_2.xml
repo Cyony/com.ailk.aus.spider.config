@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.derby:derbywar:war:10.8.2.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/derby/derbywar/10.8.2.2/derbywar-10.8.2.2.war!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/derby/derbywar/10.8.2.2/derbywar-10.8.2.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/derby/derbywar/10.8.2.2/derbywar-10.8.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
